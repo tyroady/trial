@@ -1,0 +1,6 @@
+git init
+git add file-name or use . (dot) for all files
+git status
+ls a- (show secret files {did u know? ./ and ../ these are files!})
+git commit 
+ 
