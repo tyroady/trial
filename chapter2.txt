@@ -1,6 +1,10 @@
 git init
-git add file-name or use . (dot) for all files
-git status
+git add file-name or use . (dot) for all files // the reason to have this add propaties is very simple actually. 
+We just not want to commit all the files every time. 
+git status (Telling to me what is in repository and what is not)
 ls a- (show secret files {did u know? ./ and ../ these are files!})
-git commit 
+git commit -m "Yama notu (zorunlu)"
+git log (tüm yamaları gösteriyor)
+git diff file-name (that propaties telling me what's the different between the last version and not commited file)
+
  
