@@ -7,3 +7,8 @@ git commit -m "Yama notu (zorunlu)"
 git log (tüm yamaları gösteriyor)
 git diff file-name (that propaties telling me what's the different between the last version and not commited file)
 git checkout file-name (file reverts to lastest version)
+
+git remote add <name (you can use the name whatever you want but conventional naming is origin origin mean 'menşe,köken')> <url>
+<url> github hesabında repository oluşturduğunda yeşil renkli 'code' bölümüne tıkladığında görünür.
+git push -u(when ı first to save this branch)   <name(remote name {origin})> <branch name>  
+//in this case remote name it's merely a name of remote can be anything. It's not biggie
