@@ -6,5 +6,4 @@ ls a- (show secret files {did u know? ./ and ../ these are files!})
 git commit -m "Yama notu (zorunlu)"
 git log (tüm yamaları gösteriyor)
 git diff file-name (that propaties telling me what's the different between the last version and not commited file)
-
- 
+git checkout file-name (file reverts to lastest version)
