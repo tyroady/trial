@@ -2,36 +2,7 @@
 oldukça memnunum halimden. İnsan bazenleri kendini değersiz, işe yaramaz hisseder ya hani; içimde öylece
 bir his var. Boş geçen günler bize zarar veriyor aslında. Bizi çürütüyor bilgisizlik. Aklını kullanmamak.
 Ben bunu defalarca fark ettim ama yine de buralara zaman zaman düşerim. Belki bu zaman dilimleri sorgulamak,
-durup köşeden hayatımıza bakmak içindir bilemiyorum. 
-
-
-
-
-
-Önemli Bir Mesele||
-  Buraya kadar kabaca hakkımda bilgi sahibi oldunuz. Bu kısmı belki de hiç okumayacaksınız veya çok hoşunuza gidecek, bilemiyorum.
-Ben sadece istiyorum ki bu güzel bir yazı olsun. Benden ve herkesten bahsetsin, okuyanda bir şeyler uyandırsın. 
-Yıllar önce Erkek Lisesine(Bursa) başladığımda dünyadan gerçekten haberim yoktu. 11. sınıfa geldiğimde bir şeylerin değişeceğimi biliyordum,
-hatta emindim. Herkesin depresifliğe gömülmek veya sınırlarını aşmak arasında bir seçim yapamk zorunda olduğu dönemleri olmuştur.
-Bende de o zamanlar başlamıştı bu işler. O zamanlar öğrenmeye, tefekkür etmeye çokça bağlanmıştım. Beni oldukça üzen, 
-bir çok insanın o sınırda konfor alanını seçmesi, çok az sorgulaması ve ona dayatılanla yaşamak zorunda olduğuna inanmasıdır.
-Başta yakınlarımda bunu gördüğümde hayretler içinde kalıyorum ve çok üzülüyorum.
-Eğer birisini tanımak istiyorsam bu konudaki tutumuna oldukça önem verirdim. Belki de bu yüzden bu kısmı biraz uzun tuttum. 
-İnsan kendi çemberini bir aştı mı imkanı yok kabına tekrar dönemiyor, sığamıyor bir türlü oraya. Öğrenmenin, aklını
-kullanmanın hazzını hiçbir şey dolduramıyor. 
-
-Dünya Halleri||
-   Çoğumuz dünya telaşına kapılmış durumda. Bende işler pek öyle değil. Öğrenmeye 
-ve faydalı olmaya çalışıyorum sadece. Belki de buna mecbur olduğumu anlamışımdır bilemiyorum. Rodin'in bir sözünü 
-güncelleyerek sık sık hatırlatırım bunu kendime: Bizler dilenci doğmuşuz, diyordu. Öyleyse hiç vakir kaybetmeyelim, elimize
-bir kap alıp dilenelim. Dilendiğimiz tek şey de kaliteli bilgi olsun. Zengin değilim ama olmak istiyorum. Parayı iyi işler 
-yapmak için bir araç olarak görüyorum ve bu yüzden istiyorum. Aslına bakarsanız beni en çok tatmin eden şey bir şeyler üretmektir.
-İyi işler dediğim şey de üretmektir, faydalı olmaktır, gelişmektir. Tabi bu düşüncelerde küçüklüğün etkisi de oluyor.
-
-Eskiden Gelen Hayallerim||
-   Çocukluktan gelen bir mantarhanem olsun isteğim var. Ama bundan da öte, bu mantarhanede kullanılacak müthiş teknolojik ürünleri
-tasarlamak, kodlamak gibi arzularım da var. Türkiye'de tarım ve hayvancılık çok geleneksel ve fazlaca verimsiz. Çok fazla enerji
-ve su harcamanız gerekiyor. Ben bunları azaltmak ve bu konuda ulaşılabilir teknolojik ürünler geliştirmek istiyorum.
+durup köşeden hayatımıza bakmak içindir bilemiyorum
 
 Neden BAÜ||
   İnsan hayatı bir işi yapmak için fazla uzun. Her şeyi yapmak için de çok çok kısa. O yüzden devletler kurmuşuz ve o yüzden üniversiteler var.
@@ -41,7 +12,7 @@ bir şeyler kapmak için. Peki neden Bahçeşehir Üniversitesi? Öncelikle puan
 sunuyorsunuz ki bu gerçekten çok güzel bir yaklaşım. Bunu reklam olarak gördüm ve neden olmasın dedim içimden. Bahçeşehir 
 Üniversitesi programlamada hatrı sayılır, iyi
 üniversitelerimizden. Ayrıca şu an orada %100 burslu Yazılım okuyan çokça sevdiğim Ahmet Sevinç abim var ve okuldan memnun.
-Kendisinin bende katkısı çoktur, yeri ayrıdır.
+Kendisinin bende katkısı çoktur, yeri ayrıdır. İnşallah onunla birlikte yakın zamanda uygulamalar geliştireceğiz. 
 
 Programlama ve YKS||
    Ben ilk senemde sayısalda 67k yapıp mezuna kaldım. Bu sene oldukça verimli YKS
@@ -49,7 +20,7 @@ hazırlığı yaptığım dönemler de oldu, araştırmalar yapıp çokça kitap
 beklentim yok. Çünkü gerçekten çok anlamsız gelmeye başladı. David J. Malan'dan CS50 izlemek varken türkçe denemesi çözmeye
 bir zamandan sonra dayanamadım ve ben de Udemy'e yöneldim. Biraz biraz kendime bir şeyler kattım. Şu an web geliştirme üzerine
 öğreniyorum. Front-end kısmı genel olarak bitti. Zaten günümüzde front-end kısmı minimum programlama bilgisiyle bile yapılabiliyor.
-O yüzden asıl önemli kısım back-end kısmı. Covidin ilk çıktığı zamanlarda Python'a başlamıştım. Programla altyapım 
+Covidin ilk çıktığı zamanlarda Python'a başlamıştım. Programla altyapım 
 oradan biraz vardı o yüzden pek yabancılık çekmedim. Ayrıca makina öğrenmesi, Aİ gibi alanlara inanılmaz merakım var. Günde saatlerce
 chatGPT ile konuştuğum oluyor ve hayretler içerisinde kalıyorum. Udemy'de bununla ilgili kurslar aldım. Sırası gelince onlara da 
 başlama gibi niyetim var. 
@@ -66,14 +37,13 @@ In this part ı just want to talk about my language level. I never go to any cou
 And immadiatly ı decited to watch movies and series without subtitles. After that, in a little bit time ı become able to understand.
 But the speaking and writing part ummph, can be poor. Cause ı don't give so much
 time to write and ı don't have any foreign friend. Ussualy ı'm reading and listening. Cause all the docs in the programming are in english and the course ı follow is english.
-İf ı see a word accept my knowlage ı'm just checking it. I'm sure, ı have a lot of mistakes in this pharagraph. I don't use any translate or something.
+İf ı see a word except my knowlage ı'm just checking it. I'm sure, ı have a lot of mistakes in this pharagraph. I don't use any translate or something.
 I'm merely a passive learner. With a little hardwork ı believe ı can be better. So, language not a big deal to learn in my opinion. Thanks a lot.        
  
 Kapanış||
 Umarım kendimi iyi fade edebilmişimdir. Hepsini okuduysanız gerçekten çok incesiniz. Ben çok çalışacağıma, iyi işler yapacağıma 
 inanıyorum. İstedim ki tüm bunlar Bahçeşehir Üniversitesi çatısı altında olsun. Uygun görülür de bana burs verilirse gerçekten
-çok mutlu olurum. Çünkü benimki gibi ailelerden gelen çoğu genç için özel üniversitede okumak dışarıdan bir destek olmadan
- neredeyse imkansız. Çokça teşekkür ederim. Böyle bir sistem ile öğrenci kabul ettiğiniz için. Keşke daha fazla böyle üniversite olsa.
+çok mutlu olurum. Çokça teşekkür ederim. Böyle bir sistem ile öğrenci kabul ettiğiniz için. Keşke daha fazla böyle üniversite olsa.
 Çoğu yetenekler, zihinler heba oluyor. Umarım eğitim sistemimiz daha iyi olur. Umarım bizler hür düşünen bireyler oluruz. Saygılar sevgiler.
 
 
